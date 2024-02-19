@@ -1,11 +1,11 @@
 # Ship Remote Autopilot
 
-Activate the ships autopilot systems from anywhere in the solar system!
+Allows the player to (vaugely) summon the ship to one of the locations in the solar system.
 
 # How does the mod work
-When Remote Autopilot is activated, it will go to the selected destination by flying upward if landed or if in orbit just  automatically go to the destination.
+When Remote Autopilot is activated, it will go to the selected destination by flying upward if landed or if in orbit just automatically go to the destination.
 
-CAUTION - IF THE SUN IS IN THE DIRECTION OF THE SHIP, IT HAS A CHANCE OF COLLIDING WITH THE SUN
+CAUTION - DO NOT BE INSIDE THE SHIP DURING TRANSIT... THERE ARE PRECAUTIONS... BE WARNED.
 
 # Control Operations
 
