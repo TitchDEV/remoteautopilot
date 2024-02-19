@@ -1,8 +1,8 @@
 {
     "filename": "ShipRemoteAutopilot.dll",
     "author": "Titch",
-    "name": "Ship Remote Autopilot",
+    "name": "Ship Remote Autopilot (IMPROVED)",
     "uniqueName": "Titch.ShipRemoteAutopilot",
-    "version": "0.1.0",
-    "owmlVersion": "2.3.2"
+    "version": "1.0.0",
+    "owmlVersion": "2.9.2"
 }
